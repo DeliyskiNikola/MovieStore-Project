@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MovieStore.Models.Responses
+namespace MovieStore.Models.View
 {
-    internal class GetFullMovieDetailsResponse
+    internal class MoviesView
     {
     }
 }
