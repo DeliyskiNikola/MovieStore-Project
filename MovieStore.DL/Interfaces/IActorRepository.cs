@@ -4,5 +4,7 @@ namespace MovieStore.DL.Interfaces;
 
 public interface IActorRepository
 {
-    Actor? GetActorById(int actorId);
+    Actor? GetActorById(string actorId);
+    List<Actor> GetActorsById(IEnumerable<string> actorIds);
+    void AddActorToMovie(string actorId, Movie movie);
 }

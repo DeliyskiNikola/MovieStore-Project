@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MovieStore",
+    "\\MovieStore-main",
+    "\\MovieStore-main\\MovieStore",
+    "\\MovieStore-main\\MovieStore\\MovieStore.BL",
+    "\\MovieStore-main\\MovieStore\\MovieStore.BL\\Services",
+    "\\MovieStore.BL",
+    "\\MovieStore.BL\\Interfaces",
+    "\\MovieStore.BL\\Services",
+    "\\MovieStore\\Controllers",
+    "\\MovieStore\\MovieStore.DL",
+    "\\MovieStore\\MovieStore.DL\\Interfaces"
+  ],
+  "SelectedNode": "\\MovieStore.DL\\Repositories\\ActorRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
