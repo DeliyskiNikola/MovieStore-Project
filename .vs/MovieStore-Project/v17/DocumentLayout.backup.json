@@ -3,60 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore.DL\\Repositories\\ActorRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieStore.DL\\Repositories\\ActorRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore\\MovieStore.DL\\Repositories\\MovieRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieStore\\MovieStore.DL\\Repositories\\MovieRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore\\Controllers\\MoviesController (2).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieStore\\Controllers\\MoviesController (2).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore.Models\\DTO\\Actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieStore.Models\\DTO\\Actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore.DL\\DependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieStore.DL\\DependencyInjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore\\MovieStore.Models\\DTO\\Movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieStore\\MovieStore.Models\\DTO\\Movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore.DL\\Interfaces\\IActorRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieStore.DL\\Interfaces\\IActorRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore\\MovieStore.BL\\Interfaces\\IMovieService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieStore\\MovieStore.BL\\Interfaces\\IMovieService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore.BL\\Services\\MovieBlService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieStore.BL\\Services\\MovieBlService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore.BL\\Interfaces\\IMovieService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieStore.BL\\Interfaces\\IMovieService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore.BL\\Interfaces\\IMovieBlService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieStore.BL\\Interfaces\\IMovieBlService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore\\MovieStore.BL\\Services\\MovieService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieStore\\MovieStore.BL\\Services\\MovieService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore\\MovieStore.BL\\MovieStore.BL.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieStore\\MovieStore.BL\\MovieStore.BL.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore\\Controllers\\MoviesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MovieStore\\Controllers\\MoviesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E8B4916-2708-4E29-BE2C-ECF94C2CDF95}|MovieStore.DL\\MovieStore.DL.csproj|c:\\users\\irons\\documents\\github\\moviestore-project\\moviestore.dl\\repositories\\mongorepositories\\actormongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8B4916-2708-4E29-BE2C-ECF94C2CDF95}|MovieStore.DL\\MovieStore.DL.csproj|solutionrelative:moviestore.dl\\repositories\\mongorepositories\\actormongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,185 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Actor.cs",
-              "DocumentMoniker": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore.Models\\DTO\\Actor.cs",
-              "RelativeDocumentMoniker": "MovieStore.Models\\DTO\\Actor.cs",
-              "ToolTip": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore.Models\\DTO\\Actor.cs",
-              "RelativeToolTip": "MovieStore.Models\\DTO\\Actor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T15:51:58.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore.DL\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "MovieStore.DL\\DependencyInjection.cs",
-              "ToolTip": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore.DL\\DependencyInjection.cs",
-              "RelativeToolTip": "MovieStore.DL\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T15:51:52.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore\\MovieStore.Models\\DTO\\Movie.cs",
-              "RelativeDocumentMoniker": "MovieStore\\MovieStore.Models\\DTO\\Movie.cs",
-              "ToolTip": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore\\MovieStore.Models\\DTO\\Movie.cs",
-              "RelativeToolTip": "MovieStore\\MovieStore.Models\\DTO\\Movie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T15:51:16.4Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IActorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore.DL\\Interfaces\\IActorRepository.cs",
-              "RelativeDocumentMoniker": "MovieStore.DL\\Interfaces\\IActorRepository.cs",
-              "ToolTip": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore.DL\\Interfaces\\IActorRepository.cs",
-              "RelativeToolTip": "MovieStore.DL\\Interfaces\\IActorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T15:48:40.273Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ActorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore.DL\\Repositories\\ActorRepository.cs",
-              "RelativeDocumentMoniker": "MovieStore.DL\\Repositories\\ActorRepository.cs",
-              "ToolTip": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore.DL\\Repositories\\ActorRepository.cs",
-              "RelativeToolTip": "MovieStore.DL\\Repositories\\ActorRepository.cs",
+              "Title": "ActorMongoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore.DL\\Repositories\\MongoRepositories\\ActorMongoRepository.cs",
+              "RelativeDocumentMoniker": "MovieStore.DL\\Repositories\\MongoRepositories\\ActorMongoRepository.cs",
+              "ToolTip": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore.DL\\Repositories\\MongoRepositories\\ActorMongoRepository.cs",
+              "RelativeToolTip": "MovieStore.DL\\Repositories\\MongoRepositories\\ActorMongoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T15:31:12.467Z",
+              "WhenOpened": "2024-12-16T17:45:58.063Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MovieRepository.cs",
-              "DocumentMoniker": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore\\MovieStore.DL\\Repositories\\MovieRepository.cs",
-              "RelativeDocumentMoniker": "MovieStore\\MovieStore.DL\\Repositories\\MovieRepository.cs",
-              "ToolTip": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore\\MovieStore.DL\\Repositories\\MovieRepository.cs",
-              "RelativeToolTip": "MovieStore\\MovieStore.DL\\Repositories\\MovieRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T15:30:54.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IMovieService.cs",
-              "DocumentMoniker": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore\\MovieStore.BL\\Interfaces\\IMovieService.cs",
-              "RelativeDocumentMoniker": "MovieStore\\MovieStore.BL\\Interfaces\\IMovieService.cs",
-              "ToolTip": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore\\MovieStore.BL\\Interfaces\\IMovieService.cs",
-              "RelativeToolTip": "MovieStore\\MovieStore.BL\\Interfaces\\IMovieService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T15:30:48.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MoviesController (2).cs",
-              "DocumentMoniker": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore\\Controllers\\MoviesController (2).cs",
-              "RelativeDocumentMoniker": "MovieStore\\Controllers\\MoviesController (2).cs",
-              "ToolTip": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore\\Controllers\\MoviesController (2).cs",
-              "RelativeToolTip": "MovieStore\\Controllers\\MoviesController (2).cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T15:27:34.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IMovieService.cs",
-              "DocumentMoniker": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore.BL\\Interfaces\\IMovieService.cs",
-              "RelativeDocumentMoniker": "MovieStore.BL\\Interfaces\\IMovieService.cs",
-              "ToolTip": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore.BL\\Interfaces\\IMovieService.cs",
-              "RelativeToolTip": "MovieStore.BL\\Interfaces\\IMovieService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T15:22:05.763Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MovieBlService.cs",
-              "DocumentMoniker": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore.BL\\Services\\MovieBlService.cs",
-              "RelativeDocumentMoniker": "MovieStore.BL\\Services\\MovieBlService.cs",
-              "ToolTip": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore.BL\\Services\\MovieBlService.cs",
-              "RelativeToolTip": "MovieStore.BL\\Services\\MovieBlService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T16:50:38.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MovieStore.BL.csproj",
-              "DocumentMoniker": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore\\MovieStore.BL\\MovieStore.BL.csproj",
-              "RelativeDocumentMoniker": "MovieStore\\MovieStore.BL\\MovieStore.BL.csproj",
-              "ToolTip": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore\\MovieStore.BL\\MovieStore.BL.csproj",
-              "RelativeToolTip": "MovieStore\\MovieStore.BL\\MovieStore.BL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-02T16:50:29.713Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MovieService.cs",
-              "DocumentMoniker": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore\\MovieStore.BL\\Services\\MovieService.cs",
-              "RelativeDocumentMoniker": "MovieStore\\MovieStore.BL\\Services\\MovieService.cs",
-              "ToolTip": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore\\MovieStore.BL\\Services\\MovieService.cs",
-              "RelativeToolTip": "MovieStore\\MovieStore.BL\\Services\\MovieService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T16:50:16.121Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IMovieBlService.cs",
-              "DocumentMoniker": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore.BL\\Interfaces\\IMovieBlService.cs",
-              "RelativeDocumentMoniker": "MovieStore.BL\\Interfaces\\IMovieBlService.cs",
-              "ToolTip": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore.BL\\Interfaces\\IMovieBlService.cs",
-              "RelativeToolTip": "MovieStore.BL\\Interfaces\\IMovieBlService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T16:46:53.717Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MoviesController.cs",
-              "DocumentMoniker": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore\\Controllers\\MoviesController.cs",
-              "RelativeDocumentMoniker": "MovieStore\\Controllers\\MoviesController.cs",
-              "ToolTip": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore\\Controllers\\MoviesController.cs",
-              "RelativeToolTip": "MovieStore\\Controllers\\MoviesController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAAB4AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T16:46:06.099Z"
             }
           ]
         }
