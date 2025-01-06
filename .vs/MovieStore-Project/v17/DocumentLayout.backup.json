@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0D4F22DC-9398-4807-AE51-0F016C0930CF}|MovieStore\\MovieStore.csproj|c:\\users\\irons\\documents\\github\\moviestore-project\\moviestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4F22DC-9398-4807-AE51-0F016C0930CF}|MovieStore\\MovieStore.csproj|solutionrelative:moviestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7E238B-2DA5-40FC-9DA8-D1AA0C70B672}|MovieStore.BL\\MovieStore.BL.csproj|c:\\users\\irons\\documents\\github\\moviestore-project\\moviestore.bl\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7E238B-2DA5-40FC-9DA8-D1AA0C70B672}|MovieStore.BL\\MovieStore.BL.csproj|solutionrelative:moviestore.bl\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4A890ED-9224-4B05-863B-C21B19C1355D}|MovieStore.Models\\MovieStore.Models.csproj|c:\\users\\irons\\documents\\github\\moviestore-project\\moviestore.models\\dto\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4A890ED-9224-4B05-863B-C21B19C1355D}|MovieStore.Models\\MovieStore.Models.csproj|solutionrelative:moviestore.models\\dto\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E8B4916-2708-4E29-BE2C-ECF94C2CDF95}|MovieStore.DL\\MovieStore.DL.csproj|c:\\users\\irons\\documents\\github\\moviestore-project\\moviestore.dl\\repositories\\mongorepositories\\moviemongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8B4916-2708-4E29-BE2C-ECF94C2CDF95}|MovieStore.DL\\MovieStore.DL.csproj|solutionrelative:moviestore.dl\\repositories\\mongorepositories\\moviemongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8E8B4916-2708-4E29-BE2C-ECF94C2CDF95}|MovieStore.DL\\MovieStore.DL.csproj|c:\\users\\irons\\documents\\github\\moviestore-project\\moviestore.dl\\repositories\\mongorepositories\\actormongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E8B4916-2708-4E29-BE2C-ECF94C2CDF95}|MovieStore.DL\\MovieStore.DL.csproj|solutionrelative:moviestore.dl\\repositories\\mongorepositories\\actormongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +35,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore\\Program.cs",
+              "RelativeDocumentMoniker": "MovieStore\\Program.cs",
+              "ToolTip": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore\\Program.cs*",
+              "RelativeToolTip": "MovieStore\\Program.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:51:05.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore.BL\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "MovieStore.BL\\Services\\MovieService.cs",
+              "ToolTip": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore.BL\\Services\\MovieService.cs",
+              "RelativeToolTip": "MovieStore.BL\\Services\\MovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:27:25.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore.Models\\DTO\\Actor.cs",
+              "RelativeDocumentMoniker": "MovieStore.Models\\DTO\\Actor.cs",
+              "ToolTip": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore.Models\\DTO\\Actor.cs",
+              "RelativeToolTip": "MovieStore.Models\\DTO\\Actor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:25:38.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ActorMongoRepository.cs",
               "DocumentMoniker": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore.DL\\Repositories\\MongoRepositories\\ActorMongoRepository.cs",
               "RelativeDocumentMoniker": "MovieStore.DL\\Repositories\\MongoRepositories\\ActorMongoRepository.cs",
@@ -27,6 +82,19 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T17:45:58.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieMongoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore.DL\\Repositories\\MongoRepositories\\MovieMongoRepository.cs",
+              "RelativeDocumentMoniker": "MovieStore.DL\\Repositories\\MongoRepositories\\MovieMongoRepository.cs",
+              "ToolTip": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore.DL\\Repositories\\MongoRepositories\\MovieMongoRepository.cs",
+              "RelativeToolTip": "MovieStore.DL\\Repositories\\MongoRepositories\\MovieMongoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:22:25.477Z",
               "EditorCaption": ""
             }
           ]
