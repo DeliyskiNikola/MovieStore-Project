@@ -11,16 +11,3 @@
 /Users/georgiossemerdziev/Desktop/MovieStore/MovieStore.Models/obj/Debug/net8.0/refint/MovieStore.Models.dll
 /Users/georgiossemerdziev/Desktop/MovieStore/MovieStore.Models/obj/Debug/net8.0/MovieStore.Models.pdb
 /Users/georgiossemerdziev/Desktop/MovieStore/MovieStore.Models/obj/Debug/net8.0/ref/MovieStore.Models.dll
-C:\Users\irons\Documents\GitHub\MovieStore-Project\MovieStore.Models\bin\Debug\net8.0\MovieStore.Models.deps.json
-C:\Users\irons\Documents\GitHub\MovieStore-Project\MovieStore.Models\bin\Debug\net8.0\MovieStore.Models.dll
-C:\Users\irons\Documents\GitHub\MovieStore-Project\MovieStore.Models\bin\Debug\net8.0\MovieStore.Models.pdb
-C:\Users\irons\Documents\GitHub\MovieStore-Project\MovieStore.Models\obj\Debug\net8.0\MovieStore.Models.csproj.AssemblyReference.cache
-C:\Users\irons\Documents\GitHub\MovieStore-Project\MovieStore.Models\obj\Debug\net8.0\MovieStore.Models.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\irons\Documents\GitHub\MovieStore-Project\MovieStore.Models\obj\Debug\net8.0\MovieStore.Models.AssemblyInfoInputs.cache
-C:\Users\irons\Documents\GitHub\MovieStore-Project\MovieStore.Models\obj\Debug\net8.0\MovieStore.Models.AssemblyInfo.cs
-C:\Users\irons\Documents\GitHub\MovieStore-Project\MovieStore.Models\obj\Debug\net8.0\MovieStore.Models.csproj.CoreCompileInputs.cache
-C:\Users\irons\Documents\GitHub\MovieStore-Project\MovieStore.Models\obj\Debug\net8.0\MovieStore.Models.sourcelink.json
-C:\Users\irons\Documents\GitHub\MovieStore-Project\MovieStore.Models\obj\Debug\net8.0\MovieStore.Models.dll
-C:\Users\irons\Documents\GitHub\MovieStore-Project\MovieStore.Models\obj\Debug\net8.0\refint\MovieStore.Models.dll
-C:\Users\irons\Documents\GitHub\MovieStore-Project\MovieStore.Models\obj\Debug\net8.0\MovieStore.Models.pdb
-C:\Users\irons\Documents\GitHub\MovieStore-Project\MovieStore.Models\obj\Debug\net8.0\ref\MovieStore.Models.dll

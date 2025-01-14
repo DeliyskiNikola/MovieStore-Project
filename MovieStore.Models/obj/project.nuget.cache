@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "DHscR0/DFwI=",
+  "dgSpecHash": "txwNedD/RYI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\irons\\Documents\\GitHub\\MovieStore-Project\\MovieStore.Models\\MovieStore.Models.csproj",
+  "projectFilePath": "/Users/georgiossemerdziev/Desktop/MovieStore/MovieStore.Models/MovieStore.Models.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\irons\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+    "/Users/georgiossemerdziev/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
   ],
   "logs": []
 }

@@ -40,8 +40,10 @@ namespace MovieStore
             builder.Services.AddControllers();
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
-
+            
+            // Health check
             builder.Services.AddHealthChecks();
+
 
             var app = builder.Build();
 
@@ -52,7 +54,8 @@ namespace MovieStore
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
-
+            
+            // Access it by localhost:port/healthz
             app.MapHealthChecks("/healthz");
 
             app.UseHttpsRedirection();
